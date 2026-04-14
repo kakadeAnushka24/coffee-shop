@@ -1,8 +1,8 @@
 import Img1 from "./assets/image-1.jpg";
 import Img2 from "./assets/image-2.jpg";
 import Img3 from "./assets/image-3.jpg";
-import Img4 from "";
-import Img5 from "";
+import Img4 from "./assets/image-4.jpg";
+import Img5 from "./assets/image-5.jpg";
 import Img6 from ".";
 
 
