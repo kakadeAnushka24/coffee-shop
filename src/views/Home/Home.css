@@ -1,0 +1,8 @@
+.Children-card{
+    display: flex;
+    border: 1px solid black;
+    background-color: bisque;
+    color: black;
+    padding: 20px ;
+    margin: 20px;
+}
