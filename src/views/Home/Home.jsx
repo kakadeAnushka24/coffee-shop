@@ -4,7 +4,7 @@ import Navbar from '../../components/Navbar/Navbar';
 import Footer from '../../components/Footer/Footer';
 import BodyContainer from '../../components/BodyContainer/BodyContainer';
 import {PRODUCTS} from "../../Config";
-import ProductCard from '../../components/ProductCard/ProductCard';
+import ProductCard from '../../components/Productcard/Productcard';
 import PageTitle from '../../components/PageTitle/PageTitle';
 
 // function Card({children}){
