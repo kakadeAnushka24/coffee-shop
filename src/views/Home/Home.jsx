@@ -1,11 +1,11 @@
 import React, { Children } from 'react'
 import "./Home.css"
-import Navbar from '../../Components/Navbar/Navbar';
-import Footer from '../../Components/Footer/Footer';
-import BodyContainer from '../../Components/BodyContainer/BodyContainer';
+import Navbar from '../../components/Navbar/Navbar';
+import Footer from '../../components/Footer/Footer';
+import BodyContainer from '../../components/BodyContainer/BodyContainer';
 import { PRODUCTS } from '../../config';
-import ProductCard from '../../Components/ProductCard/ProductCard';
-import PageTitle from '../../Components/PageTitle/PageTitle';
+import ProductCard from '../../components/ProductCard/ProductCard';
+import PageTitle from '../../components/PageTitle/PageTitle';
 
 // function Card({children}){
 //   return(

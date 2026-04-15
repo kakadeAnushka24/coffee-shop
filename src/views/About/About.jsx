@@ -1,11 +1,11 @@
 import React from 'react'
 import "./About.css"
 
-import Navbar from '../../Components/Navbar/Navbar';
-import Footer from '../../Components/Footer/Footer';
-import BodyContainer from '../../Components/BodyContainer/BodyContainer';
+import Navbar from '../../components/Navbar/Navbar';
+import Footer from '../../components/Footer/Footer';
+import BodyContainer from '../../components/BodyContainer/BodyContainer';
 
-import PageTitle from '../../Components/PageTitle/PageTitle';
+import PageTitle from '../../components/PageTitle/PageTitle';
 
 
 
