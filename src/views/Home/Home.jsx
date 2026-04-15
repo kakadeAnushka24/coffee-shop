@@ -3,7 +3,7 @@ import "./Home.css"
 import Navbar from '../../components/Navbar/Navbar';
 import Footer from '../../components/Footer/Footer';
 import BodyContainer from '../../components/BodyContainer/BodyContainer';
-import { PRODUCTS } from '../config';
+import { PRODUCTS } from '../Config';
 import ProductCard from '../../components/ProductCard/ProductCard';
 import PageTitle from '../../components/PageTitle/PageTitle';
 
